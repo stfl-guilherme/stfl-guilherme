@@ -1,9 +1,8 @@
 <div align="center">
 
-## Olá, sou o Guilherme👋
+## Olá, me chamo Guilherme👋
 
 **Sou estudante de Sistemas de Informações na Antonio Meneghetti Faculdade**
-
 **Trabalho na Associação Brasileira de Ontopsicologia editando os Podcasts da AMF**
 
 **Confira**
