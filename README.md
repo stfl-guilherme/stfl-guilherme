@@ -2,7 +2,7 @@
 
 ## Olá, me chamo Guilherme👋
 
-**Sou estudante de Sistemas de Informações na Antonio Meneghetti Faculdade**
+**Sou estudante de Sistemas de Informações na Antonio Meneghetti Faculdade**<br>
 **Trabalho na Associação Brasileira de Ontopsicologia editando os Podcasts da AMF**
 
 **Confira**
@@ -31,7 +31,10 @@
 </a>
 <a href="https://www.linkedin.com/in/guilherme-stefanello-913509368" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>   
+</a>
+<a href="https://www.reddit.com/user/brutulun" target="_blank">
+<img loading="lazy" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
+</a>
 </div>
 
 ![Snake animation](https://github.com/stfl-guilherme/stfl-guilherme/blob/output/github-contribution-grid-snake.svg)
