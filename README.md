@@ -35,7 +35,6 @@
 <a href="https://www.reddit.com/user/brutulun" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
 </a>
-  
 </div>
 
 ![Snake animation](https://github.com/stfl-guilherme/stfl-guilherme/blob/output/github-contribution-grid-snake.svg)
