@@ -2,8 +2,14 @@
 
 ## Olá, sou o Guilherme👋
 
-**stfl-guilherme/stfl-guilherme**
+**Sou estudante de Sistemas de Informações na Antonio Meneghetti Faculdade**
+**Trabalho na Associação Brasileira de Ontopsicologia editando os Podcasts da AMF**
 
+**Confira**
+<div>
+<a href="https://www.youtube.com/@faculdadeam" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<div>
+  
 ## **Estou aprendendo**
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
@@ -26,13 +32,6 @@
 <a href="https://www.linkedin.com/in/guilherme-stefanello-913509368" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>   
-</div>
-
-## **Contribuições**
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stfl-guilherme&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=stfl-guilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/stfl-guilherme/stfl-guilherme/blob/output/github-contribution-grid-snake.svg)
