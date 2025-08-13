@@ -37,3 +37,10 @@
 </a>
 </div>
 </div>
+## 🎵 Tocando na JukeBox  📻
+
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315zb2ajuyfiqo52knf4knu76bcu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  
+</div
