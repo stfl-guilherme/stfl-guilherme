@@ -21,6 +21,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
 
+## **Tocando na JukeBox**
+
+</div>
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315zb2ajuyfiqo52knf4knu76bcu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  
+</div
+
 ## **Meus Contatos**
 <div>
 <a href="https://instagram.com/stfl_guilherme" target="_blank">
@@ -37,11 +45,3 @@
 </a>
 </div>
 </div>
-
-## **Tocando na JukeBox**
-
-</div>
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315zb2ajuyfiqo52knf4knu76bcu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-  
-</div
