@@ -3,11 +3,6 @@
 ## Olá, me chamo Guilherme👋
 
 **Sou estudante de Sistemas de Informações na Antonio Meneghetti Faculdade**<br>
-
-**Confira**
-<div>
-<a href="https://www.youtube.com/@faculdadeam" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<div>
   
 ## **Estou aprendendo**
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>  
