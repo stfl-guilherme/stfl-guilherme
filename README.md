@@ -12,6 +12,7 @@
 ## **Estou aprendendo**
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="60" height="60"/>
 
 ## **Ferramentas e Tecnologias**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50" height="50"/>  
@@ -26,7 +27,7 @@
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315zb2ajuyfiqo52knf4knu76bcu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
   
-</div
+</div>
 
 ## **Meus Contatos**
 <div>
