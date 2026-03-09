@@ -3,7 +3,7 @@
 ## Olá, me chamo Guilherme👋
 
 **Sou estudante de Sistemas de Informações na Antonio Meneghetti Faculdade**<br>
-**Trabalho na Associação Brasileira de Ontopsicologia editando os Podcasts da AMF**
+**Destaco-me pelo perfil criativo, atenção aos detalhes e facilidade em aprender novas ferramentas e processos. Busco constantemente aprimorar minhas habilidades técnicas e sociais para expandir meu conhecimento em diferentes áreas.**
 
 **Confira**
 <div>
