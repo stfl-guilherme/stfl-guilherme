@@ -22,8 +22,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315zb2ajuyfiqo52knf4knu76bcu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-</div>
-
 ---
 
 ## **Meus Contatos**
@@ -37,6 +35,7 @@
 <a href="https://www.linkedin.com/in/guilherme-stefanello-913509368" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+</div>
 
 <a href="https://www.reddit.com/user/brutulun" target="_blank">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
