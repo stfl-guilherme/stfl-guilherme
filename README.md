@@ -28,9 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 </p>
 
-## **🎧 Tocando na JukeBox**
+## **🎧 Tocando na JukeBox** 
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=315zb2ajuyfiqo52knf4knu76bcu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315zb2ajuyfiqo52knf4knu76bcu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
 
 ---
 
