@@ -47,3 +47,10 @@
 </a>
 </div>
 
+---
+
+## **🐍 Comendo meus commits**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stfl-guilherme/stfl-guilherme/output/dist/github-snake.svg" alt="Snake animation"/>
+</p>
