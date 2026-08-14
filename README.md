@@ -47,8 +47,3 @@
 </a>
 </div>
 
-<a href="https://www.reddit.com/user/brutulun" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-</a>
-
-</div>
