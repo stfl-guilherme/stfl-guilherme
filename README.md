@@ -37,11 +37,9 @@
 ## **Meus Contatos**
 
 <div>
-
 <a href="https://instagram.com/stfl_guilherme" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
 <a href="https://www.linkedin.com/in/guilherme-stefanello-913509368" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -52,5 +50,7 @@
 ## **🐍 Comendo meus commits**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stfl-guilherme/stfl-guilherme/output/dist/github-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/stfl-guilherme/stfl-guilherme/output/github-snake.svg" alt="Snake animation"/>
 </p>
+
+</div>
